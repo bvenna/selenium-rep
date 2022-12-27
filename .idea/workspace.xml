@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6eb90c9-89b3-479f-84e3-32c56fcc93af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_bvenn_IdeaProjects_Selenium.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_bvenn_IdeaProjects_Selenium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-GoogleSearch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/C__Users_bvenn_IdeaProjects_Selenium.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JD60JGfQw35ya4GGB6PnYKnT3a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bvenn/IdeaProjects/Selenium/src/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bvenn\IdeaProjects\Selenium\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bvenn\IdeaProjects\Selenium\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml">
+    <configuration name="GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoogleSearch" />
+      <module name="Selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/bvenn/IdeaProjects/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GoogleSearch" />
+      <item itemvalue="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml" />
+        <item itemvalue="Application.GoogleSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6eb90c9-89b3-479f-84e3-32c56fcc93af" name="Changes" comment="" />
+      <created>1671600097674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671600097674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoSuchMethodError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium$KeyboardAndMouseInput.ic" NAME="KeyboardAndMouseInput Coverage Results" MODIFIED="1671649447080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

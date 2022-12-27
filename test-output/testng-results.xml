@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T14:14:53 PST" name="All Test Suite" finished-at="2022-12-26T14:15:07 PST" duration-ms="14036">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T14:14:53 PST" name="C:/Users/bvenn/IdeaProjects/Selenium" finished-at="2022-12-26T14:15:07 PST" duration-ms="14036">
+      <class name="GoogleSearch">
+        <test-method signature="searchTest()[pri:0, instance:GoogleSearch@197d671]" started-at="2022-12-26T14:14:53 PST" name="searchTest" finished-at="2022-12-26T14:15:07 PST" duration-ms="13928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- GoogleSearch -->
+    </test> <!-- C:/Users/bvenn/IdeaProjects/Selenium -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
