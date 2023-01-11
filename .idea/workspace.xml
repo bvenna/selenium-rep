@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6eb90c9-89b3-479f-84e3-32c56fcc93af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <recent name="C:\Users\bvenn\IdeaProjects\Selenium\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml">
+  <component name="RunManager" selected="TestNG.GoogleSearch.searchTest">
     <configuration name="GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoogleSearch" />
       <module name="Selenium" />
@@ -91,12 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoogleSearch.searchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearch" />
+      <option name="METHOD_NAME" value="searchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.GoogleSearch" />
+      <item itemvalue="TestNG.GoogleSearch.searchTest" />
       <item itemvalue="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleSearch.searchTest" />
         <item itemvalue="TestNG.C:/Users/bvenn/IdeaProjects/Selenium/testng.xml" />
         <item itemvalue="Application.GoogleSearch" />
       </list>
